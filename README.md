@@ -46,5 +46,3 @@ Before running the project, ensure you have the following installed:
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to customize it further based on your project structure.
